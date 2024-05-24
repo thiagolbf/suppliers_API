@@ -24,7 +24,7 @@ namespace DevIO.Data.Repository
         {
             return await Dbset.FindAsync(id);
         }
-        public virtual async Task<List<TEntity>> ObterTodos(Guid id)
+        public virtual async Task<List<TEntity>> ObterTodos()
         {
             return await Dbset.ToListAsync();
         }

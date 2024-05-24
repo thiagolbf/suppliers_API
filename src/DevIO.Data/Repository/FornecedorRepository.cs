@@ -37,5 +37,7 @@ namespace DevIO.Data.Repository
             Db.Enderecos.Remove(endereco);
             await SaveChanges();
         }
+
+      
     }
 }
