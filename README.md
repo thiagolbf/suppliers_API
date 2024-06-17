@@ -1,6 +1,6 @@
 #### API para gerenciamento de fornecedores com seus produtos
 
-#### API de Fornecedores x Produtos criada em camadas:  API / Business / Data
+#### API criada em camadas:  API / Business / Data
 #### Fornecedor poderá cadastrar seus produtos e sua localidade onde: Fornecedor 1:1 Localidade ; Fornecedor 1:N Produtos
 
 #### Tecnologias utilizadas;
